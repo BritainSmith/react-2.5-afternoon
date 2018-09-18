@@ -20,7 +20,7 @@ Select one of the following apps to clone, or get mentor approval for your own i
 
 1. [Setup state](https://reactjs.org/docs/state-and-lifecycle.html) in App.js
 1. Create and import a child component
-1. [Render Child Component,](https://reactjs.org/docs/components-and-props.html) passing any props it will need to work.
+1. [Render Child Component,](https://reactjs.org/docs/components-and-props.html) passing any props it will need to work. Remember, if you pass a function down, you'll want to bind it in the parent component.
 1. Inside child component invoke a passed in function using an [event handler.](https://reactjs.org/docs/handling-events.html) (A good example of this would be onClick/onChange)
 
 ### Complete
