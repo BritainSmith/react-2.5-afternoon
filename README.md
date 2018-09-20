@@ -2,9 +2,7 @@
 
 # Project Summary
 
-This project is designed to give you an opportunity to build something from scratch and to teach you how to connect all the pieces of an application together. All of the instructions give you an idea of what order to do things in, but there won't be any guidance or solutions on how to write the code itself.
-
-This project is broken into three parts. The setup instructions are more detailed and are designed to get you started. Parts 1-3 get progressively less detailed to give you a chance to practice your skills on your own. Your mentors have also been asked to provide only minimal guidance. They can point you in the right direction, but cannot help you code. This project is a chance for you to combine and showcase the skills you've learned so far.
+This project is designed to give you an opportunity to build something from scratch and to teach you how to build a react application. The instructions give you a rough idea of what order to do things in, but there won't be any guidance or solutions on how to write the code itself.
 
 ### Setup
 
